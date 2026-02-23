@@ -1,0 +1,5 @@
+{
+  "name": "FairNest2-graph",
+  "description": "同棲カップル向けの家賃検索アプリのプロトタイプ。インメモリグラフを用いた経路探索と公平なスコア計算を行います。",
+  "requestFramePermissions": []
+}
